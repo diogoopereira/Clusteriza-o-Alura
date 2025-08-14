@@ -1,5 +1,5 @@
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **Python 3.x**
 - **Pandas** - Manipulação e análise de dados
@@ -11,7 +11,7 @@
 - **Matplotlib** - Visualização de dados
 - **Seaborn** - Gráficos estatísticos
 
-## �� Dataset
+##  Dataset
 
 O projeto utiliza o dataset **CC GENERAL.csv** que contém informações sobre:
 - **BALANCE**: Saldo do cartão
@@ -21,7 +21,7 @@ O projeto utiliza o dataset **CC GENERAL.csv** que contém informações sobre:
 - **PAYMENTS**: Pagamentos realizados
 - **E outras variáveis comportamentais**
 
-## 🔧 Instalação e Configuração
+##  Instalação e Configuração
 
 ### Pré-requisitos
 - Python 3.7 ou superior
@@ -59,7 +59,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 jupyter notebook
 ```
 
-## �� Como Usar
+##  Como Usar
 
 1. Abra o arquivo `clusterizacao.ipynb` no Jupyter Notebook
 2. Execute as células sequencialmente
@@ -70,7 +70,7 @@ jupyter notebook
    - Avaliar a qualidade dos clusters
    - Gerar visualizações
 
-## 📈 Funcionalidades Principais
+## Funcionalidades Principais
 
 ### 1. Pré-processamento de Dados
 - Tratamento de valores ausentes
@@ -96,7 +96,7 @@ jupyter notebook
 - Análise de centroides
 - Pairplot para correlações entre variáveis
 
-## 📊 Resultados Esperados
+##  Resultados Esperados
 
 O projeto irá gerar:
 - **5 clusters** de clientes com características distintas
@@ -104,7 +104,7 @@ O projeto irá gerar:
 - **Visualizações** que mostram a separação dos grupos
 - **Análise descritiva** de cada cluster
 
-## 🔍 Análise dos Clusters
+## Análise dos Clusters
 
 Após a execução, você poderá identificar:
 - **Cluster 1**: Clientes com alto saldo e baixo uso
@@ -113,7 +113,7 @@ Após a execução, você poderá identificar:
 - **Cluster 4**: Clientes com baixo limite de crédito
 - **Cluster 5**: Clientes com comportamento médio
 
-## �� Observações Importantes
+## Observações Importantes
 
 - O dataset contém **8.950 registros** de clientes
 - Foram utilizadas **16 variáveis** para a análise
